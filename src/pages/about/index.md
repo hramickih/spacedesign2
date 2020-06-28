@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Почему SPACEDESIGN?
-meta_title: About Us | Gatsby Starter Business
+meta_title: Почему SPACEDESIGN
 meta_description: Cum sociis natoque penatibus et magnis dis parturient montes,
   nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia
   quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras
