@@ -47,12 +47,7 @@ offerings:
         odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
         massa quis euismod convallis, felis elit sodales urna, at aliquet mi
         elit auctor  risus.
-testimonials:
-  - author: Антон Храмыцких
-    quote: Сделали стол по индивидуальному проекту, получилось воплотить идею в
-      жизнь намного интересней чем задумывалось
-  - author: Дарья Владимировна
-    quote: Спасибо за проделанную работу
+testimonials: []
 meta_title: Home | SPACEDESIGN Студия авторской мебели
 meta_description: авторская мебель студия авторской мебели авторский дизайн
   мебели фабрики авторской мебели авторский проект мебель дерево мебель
