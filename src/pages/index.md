@@ -47,7 +47,9 @@ offerings:
         odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor,
         massa quis euismod convallis, felis elit sodales urna, at aliquet mi
         elit auctor  risus.
-testimonials: []
+testimonials:
+  - quote: Заказывали стол и барную стойку, всё супер - рекомендую
+    author: Антон
 meta_title: Home | SPACEDESIGN Студия авторской мебели
 meta_description: авторская мебель студия авторской мебели авторский дизайн
   мебели фабрики авторской мебели авторский проект мебель дерево мебель
